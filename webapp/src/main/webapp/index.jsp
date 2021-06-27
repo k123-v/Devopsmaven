@@ -7,7 +7,7 @@
 
 <script type="text/javascript">
   document.getElementById("myButton").onclick = function () {
-  location.href = "https://www.wix.com/";
+  location.href = "https://wistia.com/";
 };
 </script>
 
