@@ -10,12 +10,12 @@
 };
 </script>
 
-#calculator java script 
-<!-- Create a simple Program to build the Calculator in JavaScript using with HTML and CSS web languages. -->
+<!--calculator java script.-->
+
 <!DOCTYPE html>
 <html lang = "en">
 <head>
-<title> JavaScript Calculator </title>
+<title>Calculator</title>
 
 <style>
 h1 {
@@ -62,7 +62,7 @@ border: 5px solid black;
 
 </head>
 <body>
-<h1> Calculator Program in JavaScript </h1>
+<h1>Calculator using JavaScript </h1>
 <div class= "formstyle">
 <form name = "form1">
 
