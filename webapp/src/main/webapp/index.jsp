@@ -15,7 +15,7 @@
 <!DOCTYPE html>
 <html lang = "en">
 <head>
-<title>Calculator</title>
+<title>Calculator_App</title>
 
 <style>
 h1 {
