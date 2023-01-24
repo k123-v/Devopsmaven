@@ -1,4 +1,11 @@
 
+#calculator java script 
+<!-- Create a simple Program to build the Calculator in JavaScript using with HTML and CSS web languages. -->
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<title> JavaScript Calculator </title>
+
 <h1> Welcome to Cloud Automation !!!!!!</h1>
 <h2> Please click the button below </h2>
 
@@ -10,13 +17,6 @@
   location.href = "https://wistia.com/";
 };
 </script>
-
-#calculator java script 
-<!-- Create a simple Program to build the Calculator in JavaScript using with HTML and CSS web languages. -->
-<!DOCTYPE html>
-<html lang = "en">
-<head>
-<title> JavaScript Calculator </title>
 
 <style>
 h1 {
