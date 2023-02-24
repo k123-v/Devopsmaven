@@ -18,7 +18,7 @@ node('built-in') {
     sh 'echo Testing passed'
 }
    /*deploying the artificat into tomcat web server running into Production environment after testing for monitoring*/
-    stage('Continous_raja_Delivery') {
+    stage('Continous_raja_Delivery' ) {
     sh 'scp /home/ubuntu/.jenkins/workspace/first_pipeline/webapp/target/webapp.war ubuntu@172.31.46.202:/var/lib/tomcat9/webapps/prodapp.war'
 }
 }
